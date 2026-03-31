@@ -35,8 +35,7 @@
 ## 2. Deliverables & Follow-ups
 
 ### For Tom Turco
-- [ ] **ServiceNow Answer Key:** George promised to send Tom the "answer key" or research related to the ServiceNow CSA/test to help him bypass the expired account blocker.
-- [ ] **Open Source NGI Plugin:** George implied he is making the Layer 0 constraint engine open source for Tom (and others) to "plug in" to their systems.
+- [ ] **ServiceNow CSA Access:** Tom mentioned he already found a way to resolve the expired account blocker for his ServiceNow CSA (he "got it sorted"). No deliverables needed from George here.
 
 ### For George's Projects
 - [ ] **Red Light Therapy / Tinnitus:** Follow up on the Instagram post/research regarding red light therapy (MCAT/MassHealth) for Tinnitus/Hearing health (related to VA/hearing loss).
